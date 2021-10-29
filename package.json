@@ -1,0 +1,25 @@
+{
+  "name": "apprenticeship-php-project",
+  "version": "1.0.0",
+  "description": "Project from Udemy Course for Apprenticeship Code along",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LRomero2/Apprenticeship-Ultimate-PHP-Laravel-Project.git"
+  },
+  "author": "lauren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LRomero2/Apprenticeship-Ultimate-PHP-Laravel-Project/issues"
+  },
+  "homepage": "https://github.com/LRomero2/Apprenticeship-Ultimate-PHP-Laravel-Project#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
