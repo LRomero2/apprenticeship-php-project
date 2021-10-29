@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/LRomero2/Apprenticeship-Ultimate-PHP-Laravel-Project/issues"
   },
-  "homepage": "https://github.com/LRomero2/Apprenticeship-Ultimate-PHP-Laravel-Project#readme"
+  "homepage": "https://github.com/LRomero2/Apprenticeship-Ultimate-PHP-Laravel-Project#readme",
+  "devDependencies": {
+    "all": "^0.0.0",
+    "concat": "^1.0.3",
+    "npm": "^8.1.2",
+    "run": "^1.4.0"
+  }
 }
